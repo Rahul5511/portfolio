@@ -1,0 +1,40 @@
+.servicecardOne:hover{
+  transform: scale(1.05);
+  border-top:5px red inset;
+}
+
+.servicecardTwo:hover{
+    transform: scale(1.05);
+    border-top:5px red inset;
+  }
+
+  .servicecardOne{
+    border-top: 5px solid white ;
+    padding-left: 7px;
+  }
+
+  .servicecardTwo{
+    border-top: 5px solid white ;
+    padding-left: 7px;
+  }
+
+  .heading-container{
+    display: flex;
+    justify-content: center;
+  }
+
+  .icon{
+    color: red;
+  }
+
+
+  .servicecardThree{
+    border-top: 5px solid white ;
+    padding-left: 7px;
+  }
+  .servicecardThree:hover{
+    transform: scale(1.05);
+    border-top:5px red inset;
+  }
+
+  
